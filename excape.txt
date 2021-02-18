@@ -1,0 +1,1 @@
+Ambit_InchiKey	Original_Entry_ID	Entrez_ID	Activity_Flag	pXC50	DB	Original_Assay_ID	Tax_ID	Gene_Symbol	Ortholog_Group	SMILES
